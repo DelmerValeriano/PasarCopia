@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "398280112750",
+    "firebase_url": "https://pronto-mcommerce-production.firebaseio.com",
+    "project_id": "pronto-mcommerce-production",
+    "storage_bucket": "pronto-mcommerce-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398280112750:android:03b91de3046d3b1897447f",
+        "android_client_info": {
+          "package_name": "com.yourappland.pronto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398280112750-abhdkmdemf28gg0oi55k2lirk98tto1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourappland.pronto",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "398280112750-epbu3mvqlu41tpmapfuphij97neh8tb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourappland.pronto",
+            "certificate_hash": "21465ad03983730416c2ea62889ddb3a138ebf4b"
+          }
+        },
+        {
+          "client_id": "398280112750-kr7lgsj1fbppv4ralk6qt368udek09g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourappland.pronto",
+            "certificate_hash": "f0bfdbd5c36968dea0c8e20f24c889b2c7bc62ea"
+          }
+        },
+        {
+          "client_id": "398280112750-85kr0pmtn4vrpn4cn8gj013s74aev97g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL_j4IhJK2nZ0AapJnvURiT65o93uk1kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398280112750-85kr0pmtn4vrpn4cn8gj013s74aev97g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398280112750-m9v8cdg7780l5lscrqmp9tvgt03oeg0d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yourappland.prontopedidos"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398280112750:android:27ba1ce8fc62df4f97447f",
+        "android_client_info": {
+          "package_name": "com.yourappland.prontopedidos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398280112750-85kr0pmtn4vrpn4cn8gj013s74aev97g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL_j4IhJK2nZ0AapJnvURiT65o93uk1kU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398280112750-85kr0pmtn4vrpn4cn8gj013s74aev97g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398280112750-m9v8cdg7780l5lscrqmp9tvgt03oeg0d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yourappland.prontopedidos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>957675693516-rfhgqgl8umg6bob25mdre5ibsod6g75h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.957675693516-rfhgqgl8umg6bob25mdre5ibsod6g75h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>957675693516-c4qco6fr6p618svl0l52pdq5ra3n0cjl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCOoF8TRyNRc0RzFZnkR8fpJ5ecrNoyx2k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>957675693516</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appland.tiendaspronto</string>
+	<key>PROJECT_ID</key>
+	<string>pronto-mcommerce-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pronto-mcommerce-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:957675693516:ios:cb2687607a84d226af2969</string>
+	<key>DATABASE_URL</key>
+	<string>https://pronto-mcommerce-dev.firebaseio.com</string>
+</dict>
+</plist>

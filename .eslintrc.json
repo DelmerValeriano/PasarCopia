@@ -1,0 +1,57 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true,
+    "jest": true
+  },
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    }
+  },
+  "plugins": ["react", "react-hooks", "jsx-a11y", "import"],
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "extends": [
+    "airbnb",
+    "eslint:recommended",
+    "plugin:prettier/recommended",
+    "prettier/react",
+    "prettier/standard",
+    "plugin:react/recommended",
+    "plugin:import/errors",
+    "plugin:import/warnings",
+    "plugin:jsx-a11y/recommended"
+  ],
+  "rules": {
+    "no-console": "error",
+    "no-alert": "error",
+    "semi": "off",
+    "default-case": "error",
+    "eqeqeq": ["error", "always"],
+    "max-classes-per-file": ["error", 0],
+    "no-constructor-return": "error",
+    "no-empty-function:": "error",
+    "no-eq-null": "error",
+    "no-fallthrough": "error",
+    "no-multi-spaces": "error",
+    "no-redeclare": "error",
+    "no-unused-vars": "error",
+    "comma-dangle": ["error", "always"],
+    "comma-spacing": ["error", { "before": false, "after": true }],
+    "indent": ["error", 3],
+    "key-spacing": ["error", { "beforeColon": false }],
+    "line-comment-position": ["error", { "position": "above" }],
+    "max-lines": ["error", 600],
+    "no-multiple-empty-lines": "error"
+  }
+}

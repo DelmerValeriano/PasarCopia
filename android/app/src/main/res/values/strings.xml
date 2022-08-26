@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pronto</string>
+    <string name="freshchat_file_provider_authority">com.yourappland.pronto.provider</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="facebook_app_id">208220357889559</string>
+    <string name="fb_login_protocol_scheme">fb208220357889559</string>
+</resources>

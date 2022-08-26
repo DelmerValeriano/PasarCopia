@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "957675693516",
+    "firebase_url": "https://pronto-mcommerce-dev.firebaseio.com",
+    "project_id": "pronto-mcommerce-dev",
+    "storage_bucket": "pronto-mcommerce-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957675693516:android:f586fa885716753daf2969",
+        "android_client_info": {
+          "package_name": "com.yourappland.pronto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957675693516-c4qco6fr6p618svl0l52pdq5ra3n0cjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourappland.pronto",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "957675693516-95jduafo965rbubhpdvp95jlr0kdpr8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Xb2Wz-BpwZHdOTYY2Kr_MESJJiL2cEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957675693516-95jduafo965rbubhpdvp95jlr0kdpr8b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957675693516-rfhgqgl8umg6bob25mdre5ibsod6g75h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appland.tiendaspronto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
